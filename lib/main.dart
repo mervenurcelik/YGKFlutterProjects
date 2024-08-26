@@ -7,6 +7,7 @@ void main() {
   String MyName = "Mervenur";
   String MySurname = "Celik";
   bool s = true;
+
   print("$myAge $my_height $MyName $MySurname $s ");
   // runApp(const MyApp());
 }
